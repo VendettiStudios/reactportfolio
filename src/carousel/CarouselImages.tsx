@@ -19,7 +19,7 @@ class CarouselImages extends Component {
                         <img className='background' src={background4} alt="myImage" />
                         <div className='h1'>
                             <h1 >I'm Daniel</h1>
-                            <a href="Link" rel="opener noreferrer" target="_blank">VIEW CV   </a>
+                            <a href="Current_Resume.pdf" rel="opener noreferrer" target="_blank">VIEW CV   </a>
                         </div>
                     </div>
                     <div className='image_container'>
