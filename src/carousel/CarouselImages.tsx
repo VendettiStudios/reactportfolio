@@ -6,7 +6,8 @@ import background4 from './background4.jpeg';
 import background3 from './background3.jpeg';
 import "animate.css/animate.min.css";
 import blfg from './blfg.jpeg';
-// import background3 from './background3.jpeg';
+import offload from './offload.png';
+import pokemon from './pokemon.png';
 
 class CarouselImages extends Component {
     render() {
@@ -35,6 +36,18 @@ class CarouselImages extends Component {
                         <img className='background' src={blfg} alt="myImage3" />
                         <div className='h3'>
                             <a href="https://lets-frickin-game.herokuapp.com/" rel="opener noreferrer" target="_blank">View Demo</a>
+                        </div>
+                    </div>
+                    <div className='image_container' >
+                        <img className='background' src={offload} alt="myImage4" />
+                        <div className='h3'>
+                            <a href="https://yeh-offload.herokuapp.com/signin" rel="opener noreferrer" target="_blank">View Demo</a>
+                        </div>
+                    </div>
+                    <div className='image_container' >
+                        <img className='background' src={pokemon} alt="myImage5" />
+                        <div className='h3'>
+                            <a href="https://dnsnguy08.github.io/Pokemon-Battle/" rel="opener noreferrer" target="_blank">View Demo</a>
                         </div>
                     </div>
                 </Carousel>
