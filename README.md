@@ -11,8 +11,6 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ​
@@ -85,24 +83,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ### Continued development
 ​
 Would like to dial some of the styling, and add scrolling animations for Mobile devices.
-​
-### Useful resources
-​
-- [https://github.com/mittalsam98/react-portfolio](https://github.com/mittalsam98/react-portfolio)
-I used this template, though made lots of personal style alterations! Special Shoutout to Sam Mittal!
-​
-## Author
+​## Author
 ​
 - Daniel@VendettiStudios.com
 ​
-
-## Acknowledgments
-​
-@ Sam Mittal
-
-
-
-
 
 # Getting Started with Create React App
 
