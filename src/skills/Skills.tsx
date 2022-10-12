@@ -20,9 +20,9 @@ class Skills extends Component {
                                         </div>
                                         <div className={classes.label}>
                                             <h2>Full-Stack Web Development <span>MERN</span></h2>
-                                            <p>I picked up a solid foundation for web development at UC Berkeley Ext. We learned old frameworks and modern frameworks. This is helpful for older companies that are still using older frameworks, whether they want to migrate to a new framework or not!</p>
+                                            <p>I picked up a solid foundation for web development at UC Berkeley Ext. We learned modern frameworks, as well as older frameworks. This is helpful for older companies that are still using older frameworks, whether they want to migrate / transition to a new framework or not!</p>
                                             <br />
-                                            <p>Below are the skills!</p>
+                                            <p>Below are some of my skills!</p>
                                         </div>
                                     </article>
                                     {/* </ScrollAnimation>
@@ -31,7 +31,7 @@ class Skills extends Component {
                                         <div className={classes.timeline_icon} >
                                         </div>
                                         <div className={classes.label}>
-                                        <h2>Front End<span> React.JS / React.TS, VanillaJS, JavaScript, JQuery, HTML5, CSS - Bootstrap, Bulma</span></h2>
+                                        <h2>Front End<span> React.JS / React.TS, VanillaJS, JavaScript, JQuery, HTML5, CSS - Bootstrap, React.Bootstrap, Bulma</span></h2>
                                         </div>
                                     </article>
                                     {/* </ScrollAnimation>
@@ -40,7 +40,7 @@ class Skills extends Component {
                                         <div className={`${classes.timeline_icon} ${classes.timeline_icon_2}`} >
                                         </div>
                                         <div className={classes.label}>
-                                           <h2>BackEnd<span> MongoDB, SQL, APOLLO GRAPHQL, PostMan, Insmonia</span></h2>
+                                           <h2>BackEnd<span> MongoDB, SQL, Sequelize, APOLLO GRAPHQL, PostMan, Insmonia, CloudFlare, Node.js, Express.js, MVC, Javascript Computer Science, State, Redux, Cloudflare DNS</span></h2>
                                         </div>
                                     </article>
                                     {/* </ScrollAnimation> */}
@@ -51,7 +51,11 @@ class Skills extends Component {
                                         </div>
                                         <div className={classes.label}>
                                             <h2>Summary<span> The Wrap! + Other Complimentary Skills</span></h2>
-                                            <p>UI/UX DESIGN - Project Management - Team Coordination - Time Management - Communication</p>
+                                            <p> MERN - Web API's - Object Oriented Programming - Object Oriented Mapping - Progressive Web Applications - GitHub - UI/UX DESIGN - Project Management - Team Coordination - Time Management - Communication
+                                                <br/>
+                                                <br/>
+                                            Currently Learning: EC2, Docker, & Kubernetes
+                                            </p>
                                         </div>
                                     </article>
                                     {/* </ScrollAnimation> */}
