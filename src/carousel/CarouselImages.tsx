@@ -36,18 +36,24 @@ class CarouselImages extends Component {
                         <img className='background' src={blfg} alt="myImage3" />
                         <div className='h3'>
                             <a href="https://lets-frickin-game.herokuapp.com/" rel="opener noreferrer" target="_blank">View Demo</a>
+                            <a href="https://github.com/ayeh6/Offload/" rel="opener noreferrer" target="_blank">View Code</a>
                         </div>
                     </div>
                     <div className='image_container' >
                         <img className='background' src={offload} alt="myImage4" />
                         <div className='h3'>
                             <a href="https://yeh-offload.herokuapp.com/signin" rel="opener noreferrer" target="_blank">View Demo</a>
+                            <a href="https://yeh-offload.herokuapp.com/signin" rel="opener noreferrer" target="_blank">View Demo</a>
+                            
                         </div>
+
+                        
                     </div>
                     <div className='image_container' >
                         <img className='background' src={pokemon} alt="myImage5" />
                         <div className='h3'>
                             <a href="https://dnsnguy08.github.io/Pokemon-Battle/" rel="opener noreferrer" target="_blank">View Demo</a>
+                            <a href="https://github.com/dnsnguy08/Pokemon-Battle/" rel="opener noreferrer" target="_blank">View Code</a>
                         </div>
                     </div>
                 </Carousel>
