@@ -19,8 +19,8 @@ class Skills extends Component {
                                         <div className={`${classes.timeline_icon} ${classes.timeline_icon_5}`} >
                                         </div>
                                         <div className={classes.label}>
-                                            <h2>Full-Stack Web Development <span>MERN</span></h2>
-                                            <p>I picked up a solid foundation for web development at UC Berkeley Ext. We learned modern frameworks, as well as older frameworks. This is helpful for older companies that are still using older frameworks, whether they want to migrate / transition to a new framework or not!</p>
+                                            <h2>Full-Stack Web Development and Design <span>MERN</span></h2>
+                                            <p>I picked up a solid foundation for web development at UC Berkeley. We learned modern frameworks, as well as older frameworks. This is helpful for older companies that are still using older frameworks, whether they want to migrate / transition to a new framework or not!</p>
                                             <br />
                                             <p>Below are some of my skills!</p>
                                         </div>

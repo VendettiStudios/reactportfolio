@@ -17,7 +17,6 @@ width:300px;
 
 p{
   color: rgba(0, 0, 0, 0.7);
- font-weight: normal;
 }
 
 
@@ -34,7 +33,7 @@ p{
     font-weight: bold;
   }
   p{
-    font-weight: bolder;
+    font-weight: 500;
   }
   .main{
     margin-top: -40px;
@@ -53,6 +52,9 @@ p{
     overflow-x: hidden;
   }
 
+}
+b {
+    font-weight:700px;
 }
 
 
