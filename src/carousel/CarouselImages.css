@@ -134,6 +134,20 @@
     padding: 9px 18px;
   }
   .h2 a {
+    display:inline-block;
+    width: 120px;
+    font-size: 0.8rem;
+    margin: 20px;
+    padding: 9px 18px;
+    position: relative;
+    top: 20px;
+    left: 17px;
+    text-align:center;
+
+
+  }
+  .h3 a {
+    display:inline-block;
     width: 120px;
     font-size: 0.8rem;
     margin: 20px;

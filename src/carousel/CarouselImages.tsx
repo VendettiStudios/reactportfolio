@@ -43,7 +43,7 @@ class CarouselImages extends Component {
                         <img className='background' src={offload} alt="myImage4" />
                         <div className='h3'>
                             <a href="https://yeh-offload.herokuapp.com/signin" rel="opener noreferrer" target="_blank">View Demo</a>
-                            <a href="https://yeh-offload.herokuapp.com/signin" rel="opener noreferrer" target="_blank">View Demo</a>
+                            <a href="https://github.com/ayeh6/Offload" rel="opener noreferrer" target="_blank">View Code</a>
                             
                         </div>
 

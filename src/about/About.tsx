@@ -14,7 +14,7 @@ class About extends Component {
                         <br/>
                         <br/>
                         The learning never stops! Every day I put in time to expand & further my knowledge in modern development to help achieve client & employer satisfaction.
-                        I am a very fast learner, put me onto a task and i'll master it! <b>Below</b> I have listed many of my skills, Check them out!
+                        I am a very fast learner, put me onto a task and I'll master it!
                         </p>
                     </div>
             </div>
