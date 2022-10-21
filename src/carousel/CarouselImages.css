@@ -127,6 +127,10 @@
   .image {
     height: 600px;
   }
+  .h2{
+    padding-top:50px;
+    text-align:center;
+  }
   .h1 a {
     width: 120px;
     font-size: 0.8rem;
@@ -143,8 +147,6 @@
     top: 20px;
     left: 17px;
     text-align:center;
-
-
   }
   .h3 a {
     display:inline-block;
