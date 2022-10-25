@@ -1,5 +1,5 @@
 # React Portfolio
-​
+​ - Check it out! @ [https://danielholloway.dev](https://danielholloway.dev)
 ## Table of contents
 ​
 - [Overview](#overview)
@@ -62,7 +62,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ### Links
 ​
 - Solution URL: [https://github.com/VendettiStudios](https://github.com/VendettiStudios)
-- Live Site URL: [https://vendettistudios.github.io/reactportfolio/](https://vendettistudios.github.io/reactportfolio/)
+- Live Site URL: [https://danielholloway.dev](https://danielholloway.dev)
 ​
 ## My process
 ​
