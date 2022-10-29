@@ -34,7 +34,7 @@
 Would like to dial some of the styling, add scrolling animations for Mobile devices, and a work section filled with Gifs of site navigation .
 ​## Author
 ​
-- Daniel@VendettiStudios.com
+- Email : Daniel@VendettiStudios.com
 ​
 
 # Getting Started with Create React App
