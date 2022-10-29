@@ -31,7 +31,7 @@ class Skills extends Component {
                                         <div className={classes.timeline_icon} >
                                         </div>
                                         <div className={classes.label}>
-                                        <h2>Front End<span> React.js / React.ts, VanillaJS, JavaScript, JQuery, HTML5, CSS - Bootstrap, React.Bootstrap, Bulma</span></h2>
+                                            <h2>Front End<span> React.js / React.ts, VanillaJS, JavaScript, JQuery, HTML5, CSS - Bootstrap, React.Bootstrap, Bulma</span></h2>
                                         </div>
                                     </article>
                                     {/* </ScrollAnimation>
@@ -40,7 +40,7 @@ class Skills extends Component {
                                         <div className={`${classes.timeline_icon} ${classes.timeline_icon_2}`} >
                                         </div>
                                         <div className={classes.label}>
-                                           <h2>BackEnd<span> MongoDB, SQL, Sequelize, APOLLO GRAPHQL, PostMan, Insmonia, CloudFlare, Node.js, Express.js, MVC, JavaScript Computer Science, State, Redux, Cloudflare DNS</span></h2>
+                                            <h2>BackEnd<span> MongoDB, SQL, Sequelize, APOLLO GRAPHQL, PostMan, Insmonia, CloudFlare, Node.js, Express.js, MVC, JavaScript Computer Science, State, Redux, Cloudflare DNS</span></h2>
                                         </div>
                                     </article>
                                     {/* </ScrollAnimation> */}
@@ -52,9 +52,9 @@ class Skills extends Component {
                                         <div className={classes.label}>
                                             <h2>Summary<span> The Wrap! + Other Complimentary Skills</span></h2>
                                             <p> MERN - Web API's - Object Oriented Programming - Object Oriented Mapping - Progressive Web Applications - GitHub - UI/UX DESIGN - Project Management - Team Coordination - Time Management - Communication
-                                                <br/>
-                                                <br/>
-                                            Currently Learning: EC2, Docker, & Kubernetes
+                                                <br />
+                                                <br />
+                                                Currently Learning: EC2, Docker, & Kubernetes
                                             </p>
                                         </div>
                                     </article>
