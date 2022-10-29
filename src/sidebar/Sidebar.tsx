@@ -28,7 +28,7 @@ class Sidebar extends Component {
                         <li className="sidebar-nav-icons"><a href="https://www.linkedin.com/in/hollowaydaniel/" rel="opener noreferrer" target="_blank" className="fa fas fa-linkedin fa-lg"></a></li>
                         <li className="sidebar-nav-icons"> <a href="mailto:Daniel@VendettiStudios.com" rel="opener noreferrer" target="_blank" className="fa fas fa-envelope fa-lg"></a></li>
 
-                        <li className="sidebar-nav-icons"> <a href="Current_Resume.pdf" rel="opener noreferrer" target="_blank"><i className="fa-solid fa-file-pdf"></i></a></li>
+                        <li className="sidebar-nav-icons"> <a href="Resume_wd_.pdf" rel="opener noreferrer" target="_blank"><i className="fa-solid fa-file-pdf"></i></a></li>
                 </ul>
             </div>
 
